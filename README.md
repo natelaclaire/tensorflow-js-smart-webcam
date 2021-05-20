@@ -1,8 +1,14 @@
 Based on Code Lab: https://codelabs.developers.google.com/codelabs/tensorflowjs-object-detection#0
+
 Created during Google I/O Workshop: https://events.google.com/io/session/8472f8a3-619a-47cb-b606-8a451175a344?lng=en
 
 
-TensorFlow.js Boilerplate
+Tensorflow.js Smart Webcame
+=================
+Uses Tensorflow.js to recognize objects captured by the webcam.
+
+
+Built Using TensorFlow.js Boilerplate
 =================
 
 This very simple skeleton simply loads in TensorFlow.js and prints out the version once loaded to the DOM.
