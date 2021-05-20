@@ -1,3 +1,7 @@
+Based on Code Lab: https://codelabs.developers.google.com/codelabs/tensorflowjs-object-detection#0
+Created during Google I/O Workshop: https://events.google.com/io/session/8472f8a3-619a-47cb-b606-8a451175a344?lng=en
+
+
 TensorFlow.js Boilerplate
 =================
 
